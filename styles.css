@@ -39,6 +39,13 @@ h1{
   transition-duration: 2s;
 }
 
+h5{
+  font-size: 35;
+  color: #00436e;
+  font-style: oblique;
+  background-color: white;
+}
+
 body{
   font-style: normal;
   font-size: 18;
@@ -138,4 +145,9 @@ div{
 #host{
   width: 42vw;
   position: relative;
+}
+
+#outfitsline1{
+  position: absolute;
+  left: 100px;
 }
